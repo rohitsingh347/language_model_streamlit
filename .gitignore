@@ -1,0 +1,11 @@
+/myenv/
+/models/
+__pycache__/
+*.py[cod]
+sample1.py
+sample2.py
+rough_work.py
+rough.ipynb
+main.py
+main_script.py
+home.py
